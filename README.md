@@ -6,7 +6,7 @@ A machine learning-based system that predicts total food waste in tons using foo
 
 This project supports:
 
-**SDG 12 – Responsible Consumption and Production**
+**SDG – Responsible Consumption and Production**
 
 The project focuses on food waste reduction by using machine learning to estimate the amount of food waste based on available factors.
 
