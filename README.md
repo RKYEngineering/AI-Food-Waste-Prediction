@@ -103,7 +103,6 @@ AI-Food-Waste-Prediction/
 │
 ├── AI_Food_Waste_Prediction.ipynb
 ├── app.py
-├── food_waste_model.pkl
 ├── feature_names.pkl
 └── README.md
 ````
