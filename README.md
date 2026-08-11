@@ -102,7 +102,6 @@ A Gradio-based web interface was developed to allow users to enter food-waste-re
 AI-Food-Waste-Prediction/
 │
 ├── AI_Food_Waste_Prediction.ipynb
-├── app.py
 ├── feature_names.pkl
 └── README.md
 ````
