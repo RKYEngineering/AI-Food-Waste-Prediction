@@ -126,7 +126,3 @@ Possible improvements include:
 ## Author
 
 Ritik Kumar Yadav
-
-````
-
-
